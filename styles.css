@@ -1,0 +1,44 @@
+#a {
+    display: flex;
+    background-color: rgb(189, 189, 189);
+}
+#b {
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+    padding-bottom: 100px;
+}
+#c {
+    margin-right: 300px;
+    padding-left: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#d {
+    font-family: sans-serif;
+    padding: auto;
+}
+#e {
+    color: rgb(255, 102, 0);
+}
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: black; /* old IE */
+    background-color: black; /* Modern Browsers */
+    width: 100%;
+}
+#f {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+#g {
+    margin-right: 20px;
+    margin-left: 20px;
+    font-size: 35px;
+}
+body {
+    background-color: gray;
+    font-family: sans-serif;
+}
